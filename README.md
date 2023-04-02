@@ -4,7 +4,7 @@
 ![About Screenshot](assets/img/screenshots/screenshot-3.png "About Screenshot").
 ![Portfolio Screenshot](assets/img/screenshots/screenshot-2.png "Portfolio Screenshot").
 
-Acesso: Preencha aqui a URL para acesso ao site publicado
+Acesso: https://robertomahl.github.io/
 
 
 #### Desenvolvedor(a)
@@ -17,7 +17,7 @@ Luana Ferreira Oliveira por Ismael Lisot - luana.oliveira@acad.ufsm.br
 - HTML
 - CSS
 - Javascript
-- TODO
+- Bootstrap
 
 #### Ambiente de desenvolvimento
 - VS Code
